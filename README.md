@@ -45,23 +45,13 @@ I'm a passionate beginner programmer on my journey to master web development. I 
 ##  Connect With Me 
 
 <p align="center">
-  <a href="www.linkedin.com/in/dzaky-adabi-182b87380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dzaky-adabi-182b87380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.instagram.com/dzakyadabi?igsh=MWkzYzJmcWJ0YnlyNw==/YourInstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="dzaky.adabi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:dzaky.adabi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
---- 
-
-## Play Games With Me
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/pacman-contribution-graph.svg">
-</picture>
-
-----
-
+---
 <img src="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/snake.svg" alt="Snake animation" />
 
 ---
