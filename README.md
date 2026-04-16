@@ -53,8 +53,21 @@ I'm a passionate beginner programmer on my journey to master web development. I 
   <a href="dzaky.adabi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
+--- 
+
+## Play Games With Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/pacman-contribution-graph.svg">
+</picture>
+
+----
+
+<img src="https://raw.githubusercontent.com/Dzakyadabi/Dzakyadabi/output/snake.svg" alt="Snake animation" />
+
 ---
 
 <p align="center">
-  <i> </i>
+  <i>⭐ Feel free to reach out! I love collaborating and learning new things.</i>
 </p>
