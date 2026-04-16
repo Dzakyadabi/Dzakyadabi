@@ -1,4 +1,4 @@
-# Dzakyadabi's Domain
+# Hi i'm Dzakyadabi
 
 **Beginner Programmer** | Passionate about **Coding & Web Development**
 
