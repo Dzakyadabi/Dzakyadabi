@@ -1,0 +1,47 @@
+name: Play Snake with Me
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+
+jobs:
+  snake-game:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start Snake Game
+      run: |
+        echo "🐍 Starting Snake Game..."
+        echo "Eat food and grow your snake! 🍎"
+
+    - name: Initialize Game Board
+      run: |
+        echo "Creating 20x20 game board..."
+        echo "Snake position: center"
+        echo "Food position: random"
+
+    - name: Game Session
+      run: |
+        echo "⏱️ Game Running..."
+        echo "Difficulty: Medium"
+
+    - name: Game Summary
+      run: |
+        echo "🏆 Game Over!"
+        echo "Final Length: 0"
+        echo "Points Earned: 0"
