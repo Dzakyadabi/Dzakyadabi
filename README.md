@@ -57,5 +57,5 @@ I'm a passionate beginner programmer on my journey to master web development. I 
 ---
 
 <p align="center">
-  <i>⭐ Feel free to reach out! I love collaborating and learning new things.</i>
+  <i></i>
 </p>
