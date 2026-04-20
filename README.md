@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate beginner programmer on my journey to master web development. I love spending time coding and building exciting projects using PHP, JavaScript, and modern frameworks. When I'm not coding, you'll find me immersed in video games! I'm eager to learn, collaborate with others, and contribute to meaningful projects.
+I'm a passionate beginner programmer on my journey to master web development. I like spending time coding and building exciting projects using PHP, JavaScript, and modern frameworks. When I'm not coding, you'll find me immersed in video games! I'm eager to learn, collaborate with others, and contribute to meaningful projects.
 
 -  **Currently Working On**: LSPRO App
 -  **Currently Learning**: Design and Frontend Development
