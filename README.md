@@ -38,8 +38,7 @@ I'm a passionate beginner programmer on my journey to master web development. I 
 
 ##  Education
 
-- MAN 1 Lamongan 2019
-- Information System - UIN Sunan Ampel Surabaya  
+-Information System - UIN Sunan Ampel Surabaya  
 2023
 
 ---
