@@ -10,7 +10,7 @@ I'm a passionate beginner programmer on my journey to master web development. I 
 
 -  **Currently Working On**: LSPRO App
 -  **Currently Learning**: Design and Frontend Development
--  **Ask Me About**: Design, Game 
+-  **Ask Me About**: Design, Game, Football 
 -  **Contact Me**: Dzaky.adabi@gmail.com
 
 
