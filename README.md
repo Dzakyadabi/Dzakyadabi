@@ -1,6 +1,6 @@
 # Hi i'm Dzakyadabi
 
-<img align="center" height="300" src="Document.png"  />
+<img align="center" height="300" src="Assets/Document.png"  />
 
 ---
 
